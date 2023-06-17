@@ -5,7 +5,8 @@
     <title>Weather application</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>   
+<body> 
+
 <div class="card">
     <div class="search">
         <input type="text" placeholder="enter city name" 
@@ -38,10 +39,13 @@
 <script>
 
 const apiKey = "9f5138d6028380d5f562c6610bd70248";
-const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=bangalore";
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
-async function checkWeather(){
-    const response = await fetch(apiUrl + `&appid=${apiKey}`);
+const searchBox = document.querySelector(".search input");
+const searchBtn = document.querySelector(".search button");
+
+async function checkWeather(city){
+    const response = await fetch(apiUrl + city + `&appid=${apiKey}`);
     var data = await response.json();
 
     console.log(data);
@@ -53,7 +57,10 @@ async function checkWeather(){
     
 }  
 
-checkWeather();
+searchBtn.addEventListener("click", ()=>{
+    checkWeather(searchBox.value);
+})
+
 
 </script>
 
