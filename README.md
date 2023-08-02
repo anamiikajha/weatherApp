@@ -3,9 +3,11 @@
 >
 # Weather-App Demo
 > Search bar with search button
+> 
 ![searchbar](https://github.com/anamiikajha/Weather-App/assets/89740849/764cd32d-21ad-44c7-995b-23ff76480fb3)
 >
 > Weather app looks like this!
+>
 ![weather app](https://github.com/anamiikajha/Weather-App/assets/89740849/69c52856-7d3d-4aef-9962-eed152a21a41)
 >
 # Description
