@@ -15,7 +15,7 @@
 - The project is built using pure HTML and CSS, making it lightweight and easy to understand.
 -  It utilizes weather data from a third-party API to provide real-time weather information.
 >
-#Demo
+# Demo
 >
 > The live demo of the Weather-App here.
 >
