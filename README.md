@@ -67,5 +67,4 @@ const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API ke
 >
 >  The goal is to provide users with all the necessary information to understand, use, and contribute to your Weather-App project.
 >
-> ### Language used in this repo:
-> https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
