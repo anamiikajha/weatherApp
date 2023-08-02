@@ -43,14 +43,18 @@ const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API ke
 >
 > Contributions to the Weather-App project are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-> License
+# License
+>
 > The Weather-App project is licensed under the MIT License.
 >
 > [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/HTTP-Server-Py/blob/master/LICENSE)
 
 # Credits
+>
 > Weather icons provided by Iconscout.
 >
 > Weather data fetched using the OpenWeatherMap API.
 >
-> Feel free to customize the template according to your specific project details, add more sections if needed, and make sure to replace the placeholders with actual information. The goal is to provide users with all the necessary information to understand, use, and contribute to your Weather-App project.
+> Feel free to customize the template according to your specific project details, add more sections if needed, and make sure to replace the placeholders with actual information.
+>
+>  The goal is to provide users with all the necessary information to understand, use, and contribute to your Weather-App project.
