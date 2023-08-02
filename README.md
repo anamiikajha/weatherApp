@@ -1,5 +1,5 @@
 # Weather-App
-> Pure  vanilla HTML, CSS and JavaScript weather app website made by fetching temperature through free Weather API.
+> Pure  vanilla HTML, CSS and JavaScript weather app website made by fetching data through free Weather API.
 >
 # Weather-App Demo
 >
