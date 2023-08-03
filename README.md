@@ -56,7 +56,7 @@ const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API ke
 ## License
 > The Weather-App project is licensed under the MIT License.
 >
-> [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/HTTP-Server-Py/blob/master/LICENSE)
+> [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/Weather-App/blob/main/LICENSE)
 >
 ## Credits
 > Weather icons provided by Iconscout.
