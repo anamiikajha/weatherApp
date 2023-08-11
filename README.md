@@ -1,14 +1,18 @@
 # Weather-App
 > Pure  vanilla HTML, CSS and JavaScript weather app website made by fetching data through free Weather API.
 >
-# Weather-App Demo
+# Weather-App Preview
 - Search bar with search button
 >
 ![searchbar](https://github.com/anamiikajha/Weather-App/assets/89740849/764cd32d-21ad-44c7-995b-23ff76480fb3)
 >
-- Weather app looks like this!
+- Weather app looks like this
 >
 ![weather app](https://github.com/anamiikajha/Weather-App/assets/89740849/69c52856-7d3d-4aef-9962-eed152a21a41)
+>
+- Error on misspell
+> 
+![error](https://github.com/anamiikajha/weatherApp/assets/89740849/2cff287c-eac8-4b06-86ec-09a517b0966b)
 >
 # Description
 - Weather-App is a simple web application that allows users to check the current weather conditions and forecasts for different locations.
