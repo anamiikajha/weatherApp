@@ -78,7 +78,7 @@ body{
     margin-right: 10px; 
 }
 .humidity, .wind{
-    font-size: 28px;
+    font-size: 20px;
     margin-top: -6px;
 }
 .weather{
@@ -87,7 +87,39 @@ body{
 .error{
     text-align: left;
     margin-left: 10px;
-    font-size: 14px;
+    font-size: 12px;
     margin-top: 10px;
     display: none;
 }
+@media only screen and (max-width: 500px) {
+    .card{
+        box-sizing: border-box;
+        width: 80vw;
+        max-width: 80vw;
+        padding: 20px 6px;
+    }
+    .search{
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .search input{
+        width: 100%;
+        margin: 0px auto;
+        padding: 8px 5px;
+        height: 45px;
+        font-size: 16px;
+    }
+    .search button{
+        margin-top: 10px;
+        align-self: self-end;
+        height: 35px;
+        width: 45px;
+        border-radius: 55%;
+        border: none;
+    }
+    .search button img{
+        width: 12px;
+    }
+    }
