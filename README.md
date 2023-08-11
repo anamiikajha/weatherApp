@@ -4,11 +4,11 @@
 # Weather-App Preview
 - Search bar with search button
 >
-![searchbar](https://github.com/anamiikajha/Weather-App/assets/89740849/764cd32d-21ad-44c7-995b-23ff76480fb3)
+![searchbar]](https://github.com/anamiikajha/weatherApp/assets/89740849/e29ac54c-bc63-4850-982d-1ced1a7ce637)
 >
 - Weather app looks like this
 >
-![weather app](https://github.com/anamiikajha/Weather-App/assets/89740849/69c52856-7d3d-4aef-9962-eed152a21a41)
+![weather app](https://github.com/anamiikajha/weatherApp/assets/89740849/dc964870-1a2c-45f2-aaac-9b1956be23ce)
 >
 - Error on misspell
 > 
