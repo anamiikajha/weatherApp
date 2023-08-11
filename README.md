@@ -4,7 +4,7 @@
 # Weather-App Preview
 - Search bar with search button
 >
-![searchbar]](https://github.com/anamiikajha/weatherApp/assets/89740849/e29ac54c-bc63-4850-982d-1ced1a7ce637)
+![searchbar](https://github.com/anamiikajha/weatherApp/assets/89740849/e29ac54c-bc63-4850-982d-1ced1a7ce637)
 >
 - Weather app looks like this
 >
