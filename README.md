@@ -68,7 +68,7 @@ const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API ke
 >
 - Weather data fetched using the OpenWeatherMap API.
 >
-> Feel free to customize the template according to your specific project details, add more sections if needed, and make sure to replace the placeholders with actual information.
+- Feel free to customize the template according to your specific project details, add more sections if needed, and make sure to replace the placeholders with actual information.
 >
 -  The goal is to provide users with all the necessary information to understand, use, and contribute to your Weather-App project.
 >
