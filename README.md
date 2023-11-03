@@ -24,7 +24,7 @@
 >
 - The live demo of the Weather-App here.
 >
-> https://weather-app-one-hazel.vercel.app/
+> https://weather-app-git-main-anamiikajha.vercel.app/
 >
 # Installation
 - 1. Clone the repository:
@@ -59,7 +59,7 @@ const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API ke
 - If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 >
 ## License
-- The Weather-App project is licensed under the MIT License.
+> The Weather-App project is licensed under the MIT License.
 >
 > [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/Weather-App/blob/main/LICENSE)
 >
