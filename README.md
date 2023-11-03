@@ -1,6 +1,7 @@
 # Weather-App
-> Pure  vanilla HTML, CSS and JavaScript weather app website made by fetching data through free Weather API.
->
+- Simple vanilla HTML, CSS and JavaScript weather app website.
+- Made by fetching data through free Weather API.
+
 # Weather-App Preview
 - Search bar with search button
 >
@@ -16,7 +17,7 @@
 >
 # Description
 - Weather-App is a simple web application that allows users to check the current weather conditions and forecasts for different locations.
-- The project is built using pure HTML and CSS, making it lightweight and easy to understand.
+- The project is built using vanilla HTML, CSS, Javascript making it lightweight and easy to understand.
 -  It utilizes weather data from a third-party API to provide real-time weather information.
 >
 # Demo
@@ -63,12 +64,12 @@ const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API ke
 > [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/anamiikajha/Weather-App/blob/main/LICENSE)
 >
 ## Credits
-> Weather icons provided by Iconscout.
+- Weather icons provided by Iconscout.
 >
-> Weather data fetched using the OpenWeatherMap API.
+- Weather data fetched using the OpenWeatherMap API.
 >
 > Feel free to customize the template according to your specific project details, add more sections if needed, and make sure to replace the placeholders with actual information.
 >
->  The goal is to provide users with all the necessary information to understand, use, and contribute to your Weather-App project.
+-  The goal is to provide users with all the necessary information to understand, use, and contribute to your Weather-App project.
 >
 
