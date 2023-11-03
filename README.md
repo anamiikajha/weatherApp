@@ -22,12 +22,12 @@
 >
 # Demo
 >
-> The live demo of the Weather-App here.
+- The live demo of the Weather-App here.
 >
 > https://weather-app-one-hazel.vercel.app/
 >
 # Installation
-> 1. Clone the repository:
+- 1. Clone the repository:
 ```bash
 
 git clone https://github.com/anamiikajha/Weather-App.git
@@ -35,11 +35,11 @@ git clone https://github.com/anamiikajha/Weather-App.git
 ```
 >
 
-> 2. Navigate to the project directory:
+- 2. Navigate to the project directory:
 ```bash
 cd Weather-App
 ```
-> 3. Open index.html in your preferred web browser.
+- 3. Open index.html in your preferred web browser.
 >
 # Usage
 - Upon opening the Weather-App, you will see a simple and intuitive interface.
@@ -47,16 +47,16 @@ cd Weather-App
 - The app will fetch weather data from the API and display the current weather conditions and forecast for the specified location.
 >
 # Configuration
-> The Weather-App utilizes the OpenWeatherMap API to fetch weather data. To use the app, you need to obtain a free API key from OpenWeatherMap and replace the placeholder in the script.js file:
+- The Weather-App utilizes the OpenWeatherMap API to fetch weather data. To use the app, you need to obtain a free API key from OpenWeatherMap and replace the placeholder in the script.js file:
 
 ```javascript
 const apiKey = 'YOUR_API_KEY'; // Replace 'YOUR_API_KEY' with your actual API key
 ```
 >
 # Contributing
-> Contributions to the Weather-App project are welcome!
+- Contributions to the Weather-App project are welcome!
 >
->If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+- If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 >
 ## License
 > The Weather-App project is licensed under the MIT License.
